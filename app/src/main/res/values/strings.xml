@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArcherSoundboard</string>
+    <string name="SterlingArcher">Sterling Archer</string>
+    <string name="LanaKane">Lana Kane</string>
+    <string name="CherylTunt">Cheryl Tunt</string>
+    <string name="CyrilFiggis">Cyril Figgis</string>
+    <string name="AlgernopKrieger">Algernop Krieger</string>
+    <string name="MalloryArcher">Malory Archer</string>
+    <string name="PamPoovey">"Pam Poovey</string>
+    <string name="RayGillette">Ray Gillette</string>
+    <string name="todo">TODO</string>
+
+</resources>
